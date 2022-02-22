@@ -1,4 +1,9 @@
-### Hi there 👋
+# Oi para você 👋
+
+## 🌱 Atualmente estou estudando Python e Django!!!
+## 🔭 No dia-dia trabalho na migração de sitemas desktop para WEB descrevendo as funcionalidades a serem desenvolvidas.
+## 💬 Podemos conversar também sobre Delphi, Banco de dados Relacional (Oracle), ERP, Projeto SPED e ideias de inovação. 
+
 
 <!--
 **ffabiop/ffabiop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
